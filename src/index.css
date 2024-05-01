@@ -36,3 +36,16 @@
   border:none;
   cursor: pointer;
 } */
+
+.student{
+  font-family: Arial,  sans-serif;
+  font-size: 2em;
+  padding: 10px;
+  border: 1px solid hsl(0, 0%, 1%);
+
+}
+
+.student p{
+  margin: 0;
+  
+}

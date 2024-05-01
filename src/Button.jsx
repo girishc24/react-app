@@ -1,3 +1,11 @@
+ //How to Style React Component With Css
+//-----------------------------------
+//Not including external frameworks or preprocessor
+
+// 1.External
+// 2.Modules
+// 3.Inline
+
 // import style from './Button.module.css'
 
 function Button(){
